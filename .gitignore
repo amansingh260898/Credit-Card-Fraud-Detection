@@ -1,45 +1,45 @@
 
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
+# # Python
+# __pycache__/
+# *.py[cod]
+# *.pyo
+# *.pyd
+# .Python
 
-# Virtual environments
-.venv/
-venv/
-env/
+# # Virtual environments
+# .venv/
+# venv/
+# env/
 
-# Environment variables and secrets
-.env
-.env.*
-!.env.example
+# # Environment variables and secrets
+# .env
+# .env.*
+# !.env.example
 
-# IDE and operating system
-.vscode/
-.idea/
-.DS_Store
+# # IDE and operating system
+# .vscode/
+# .idea/
+# .DS_Store
 
-# Jupyter
-.ipynb_checkpoints/
+# # Jupyter
+# .ipynb_checkpoints/
 
-# Downloaded and generated datasets
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+# # Downloaded and generated datasets
+# data/raw/*
+# data/processed/*
+# !data/raw/.gitkeep
+# !data/processed/.gitkeep
 
-# Generated model binaries
-models/*.joblib
+# # Generated model binaries
+# models/*.joblib
 
-# Generated charts
-reports/figures/*.png
+# # Generated charts
+# reports/figures/*.png
 
-# Test and coverage caches
-.pytest_cache/
-.coverage
-htmlcov/
+# # Test and coverage caches
+# .pytest_cache/
+# .coverage
+# htmlcov/
 
-# Logs
-*.log
+# # Logs
+# *.log

@@ -632,4 +632,5 @@ else:
     st.write("**Decision threshold:**", f"{THRESHOLD:.6f}")
     st.write("**Feature count:**", len(FEATURES))
     with st.expander("View model metadata"):
+        
         st.json(metadata if metadata else {"status": model_error})
