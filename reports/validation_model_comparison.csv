@@ -1,0 +1,4 @@
+model,validation_average_precision
+random_forest_balanced,0.8190038878060164
+logistic_regression_baseline,0.6703758418163931
+logistic_regression_balanced,0.6300872677700333
